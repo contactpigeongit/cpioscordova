@@ -1,0 +1,17 @@
+{
+  "name": "com.contactpigeon.fbsdkiosplugin",
+  "version": "1.0.0",
+  "description": "ContactPigeon Cordova iOS SDK",
+  "cordova": {
+    "id": "com.contactpigeon.fbsdkiosplugin",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "tomatoset",
+  "license": "ISC"
+}
